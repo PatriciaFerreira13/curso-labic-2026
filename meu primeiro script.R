@@ -1,1 +1,1 @@
-"meu primeiro script"
+"meu primeiro"
